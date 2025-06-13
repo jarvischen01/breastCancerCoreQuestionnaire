@@ -1,4 +1,5 @@
-# breastCancerCoreQuestionnaire
+# Breast Cancer Core Questionnaire Project: Sociodemographic and Cultural Module
+
 This repository contains the Sociodemographic and Cultural Module of the Breast Cancer Core Questionnaire Project.
 
 The Breast Cancer Core Questionnaire Project (BCCQP) was an initiative led by the National Cancer Institute (NCI) in partnership with the US Public Health Service Office on Women's Health and the National Action Plan on Breast Cancer (NAPBC) in the mid-1990's. The goal was produce a set of harmonized questionnaire instruments to facilitate comparability across epidemiologic studies.
