@@ -8,10 +8,12 @@ Drs. Nancy Krieger and Jarvis Chen developed the Sociodemographic and Cultural M
 
 There are two versions:
 
-Sociodemographic and Cultural Module - Core Version
+* [Sociodemographic and Cultural Module - Core Version (pdf)](BCCQP_SociodemographicAndCulturalModule_CoreVersion.pdf)
 
-Sociodemographic and Cultural Module - Full Version
+* [Sociodemographic and Cultural Module - Full Version (pdf)](BCCQP_SociodemographicAndCulturalModule_FullVersion.pdf)
 
-As these questionnaires do not appear to be available online, we are making them available in this GitHub repository. Please cite:
+As these questionnaires do not appear to be available elsewhere online, we are making them available in this GitHub repository. 
+
+Please cite:
 Krieger N, Chen JT. Sociodemographic and cultural module for the Breast Cancer Core Questionnaire Project.
 Prepared for the Breast Cancer Core Questionnaire Project, National Institutes of Health and National Action Plan on Breast Cancer. Bethesda, MD: September 1996.
