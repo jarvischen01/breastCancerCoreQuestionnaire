@@ -6,19 +6,13 @@ cancer risk factors.
 
 The six modules of the BCCQ and the leader of each respective module's design team were:
 
-- *Medical and Reproductive History*, Janet Daling,
-Ph.D., Fred Hutchinson Cancer Research Center
+- *Medical and Reproductive History*, Janet Daling, Ph.D., Fred Hutchinson Cancer Research Center
 - *Sociodemographic and Cultural Factors*, Nancy
-Krieger, Ph.D., Harvard School of Public Health
-- *Occupational Exposures*, Ann Aschengrau, Sc.D.,
-Boston University School of Public Health and Julia
-Brody, Ph.D., Silent Spring Institute
-- Environmental Exposures*, Steven Stellman, Ph.D.,
-M.P.H., American Health Foundation
-- *Personal Behaviors and Lifestyle*, Leslie Bernstein,
-Ph. D., University of Southern California
-- *Diet and Nutrition*, Lenore Kohlmeier, Ph.D., University
-of North Carolina
+Krieger, Ph.D., and Jarvis T. Chen, ScD, Harvard T.H. Chan School of Public Health
+- *Occupational Exposures*, Ann Aschengrau, Sc.D., Boston University School of Public Health and Julia Brody, Ph.D., Silent Spring Institute
+- Environmental Exposures*, Steven Stellman, Ph.D., M.P.H., American Health Foundation
+- *Personal Behaviors and Lifestyle*, Leslie Bernstein, Ph. D., University of Southern California
+- *Diet and Nutrition*, Lenore Kohlmeier, Ph.D., University of North Carolina
 
 Read more about the BCCQ in this [1998 article](1998_The Ribbon_Breast Cancer Comprehensive Questionnaire_v3i1_excerpt.pdf) in *The Ribbon*, a newsletter of the Cornell University Program on Breast Cancer and Environmental Risk Factors in New York State (Volume 3, Number 1, Winter 1998).
 
