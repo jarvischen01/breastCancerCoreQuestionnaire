@@ -14,7 +14,7 @@ Krieger, Ph.D., and Jarvis T. Chen, ScD, Harvard T.H. Chan School of Public Heal
 - *Personal Behaviors and Lifestyle*, Leslie Bernstein, Ph. D., University of Southern California
 - *Diet and Nutrition*, Lenore Kohlmeier, Ph.D., University of North Carolina
 
-Read more about the BCCQ in this [1998 article](1998_The Ribbon_Breast Cancer Comprehensive Questionnaire_v3i1_excerpt.pdf) in *The Ribbon*, a newsletter of the Cornell University Program on Breast Cancer and Environmental Risk Factors in New York State (Volume 3, Number 1, Winter 1998).
+Read more about the BCCQ in this [1998 article](1998_The%20Ribbon_Breast%20Cancer%20Comprehensive%20Questionnaire_v3i1_excerpt.pdf) in *The Ribbon*, a newsletter of the Cornell University Program on Breast Cancer and Environmental Risk Factors in New York State (Volume 3, Number 1, Winter 1998).
 
 
 As these questionnaires do not appear to be available elsewhere online, we are making them available in this GitHub repository. 
@@ -32,4 +32,4 @@ Prepared for the Breast Cancer Core Questionnaire Project, National Institutes o
 
 We are also making available a pdf with the full set of six core questionnaires:
 
-* [Full Breast Cancer Core Questionnaire (all modules)](1998_Breast Cancer Comprehensive Questionnaire_US DHHS.pdf)
+* [Full Breast Cancer Core Questionnaire (all modules)](1998_Breast%20Cancer%20Comprehensive%20Questionnaire_US DHHS.pdf)
