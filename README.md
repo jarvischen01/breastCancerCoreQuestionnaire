@@ -32,4 +32,4 @@ Prepared for the Breast Cancer Core Questionnaire Project, National Institutes o
 
 We are also making available a pdf with the full set of six core questionnaires:
 
-* [Full Breast Cancer Core Questionnaire (all modules)](1998_Breast%20Cancer%20Comprehensive%20Questionnaire_US DHHS.pdf)
+* [Full Breast Cancer Core Questionnaire (all modules)](1998_Breast%20Cancer%20Comprehensive%20Questionnaire_US%20DHHS.pdf)
