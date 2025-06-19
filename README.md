@@ -10,7 +10,7 @@ The six modules of the BCCQ and the leader of each respective module's design te
 - *Sociodemographic and Cultural Factors*, Nancy
 Krieger, Ph.D., and Jarvis T. Chen, ScD, Harvard T.H. Chan School of Public Health
 - *Occupational Exposures*, Ann Aschengrau, Sc.D., Boston University School of Public Health and Julia Brody, Ph.D., Silent Spring Institute
-- Environmental Exposures*, Steven Stellman, Ph.D., M.P.H., American Health Foundation
+- *Environmental Exposures*, Steven Stellman, Ph.D., M.P.H., American Health Foundation
 - *Personal Behaviors and Lifestyle*, Leslie Bernstein, Ph. D., University of Southern California
 - *Diet and Nutrition*, Lenore Kohlmeier, Ph.D., University of North Carolina
 
