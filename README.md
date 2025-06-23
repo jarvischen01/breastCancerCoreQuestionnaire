@@ -1,7 +1,7 @@
 # Breast Cancer Core Questionnaire Project
 
 The Breast Cancer Core Questionnaire (BCCQ) Project was a collaborative effort of NAPBC, the National Cancer
-Institute (NCI), and Temple UniversityÕs Institute for Survey Research (ISR) to improve the epidemiologic study of breast
+Institute (NCI), and Temple University's Institute for Survey Research (ISR) to improve the epidemiologic study of breast
 cancer risk factors. 
 
 The six modules of the BCCQ and the leader of each respective module's design team were:
